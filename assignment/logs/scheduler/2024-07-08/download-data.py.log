@@ -1,0 +1,98 @@
+[2024-07-08T15:46:01.915+0000] {processor.py:157} INFO - Started process (PID=184) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:01.916+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:46:01.920+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:01.919+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:01.946+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:01.969+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:01.968+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:46:02.003+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:02.002+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:46:02.030+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.120 seconds
+[2024-07-08T15:46:32.298+0000] {processor.py:157} INFO - Started process (PID=199) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:32.300+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:46:32.311+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:32.310+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:32.332+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:46:32.379+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:32.379+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:46:32.415+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:46:32.415+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:46:32.473+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.179 seconds
+[2024-07-08T15:47:02.592+0000] {processor.py:157} INFO - Started process (PID=214) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:02.592+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:47:02.594+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:02.594+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:02.605+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:02.625+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:02.625+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:47:02.641+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:02.641+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:47:02.652+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
+[2024-07-08T15:47:32.954+0000] {processor.py:157} INFO - Started process (PID=229) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:32.955+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:47:32.956+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:32.956+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:32.967+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:47:32.988+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:32.988+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:47:33.007+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:47:33.007+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:47:33.020+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.069 seconds
+[2024-07-08T15:48:03.236+0000] {processor.py:157} INFO - Started process (PID=244) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:03.237+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:48:03.238+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:03.238+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:03.249+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:03.270+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:03.270+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:48:03.285+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:03.285+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:48:03.296+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
+[2024-07-08T15:48:33.569+0000] {processor.py:157} INFO - Started process (PID=259) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:33.570+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:48:33.572+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:33.571+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:33.581+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:48:33.602+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:33.602+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:48:33.620+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:48:33.619+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:48:33.635+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.068 seconds
+[2024-07-08T15:49:03.908+0000] {processor.py:157} INFO - Started process (PID=274) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:03.909+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:49:03.910+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:03.910+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:03.920+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:03.941+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:03.941+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:49:03.956+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:03.956+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:49:03.969+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
+[2024-07-08T15:49:34.232+0000] {processor.py:157} INFO - Started process (PID=289) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:34.232+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:49:34.234+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:34.234+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:34.245+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:49:34.266+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:34.266+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:49:34.281+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:49:34.281+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:49:34.292+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
+[2024-07-08T15:50:04.543+0000] {processor.py:157} INFO - Started process (PID=304) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:04.544+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:50:04.546+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:04.546+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:04.555+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:04.576+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:04.576+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:50:04.591+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:04.591+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:50:04.602+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.061 seconds
+[2024-07-08T15:50:34.865+0000] {processor.py:157} INFO - Started process (PID=319) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:34.866+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:50:34.868+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:34.867+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:34.877+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:50:34.898+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:34.898+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:50:34.913+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:50:34.913+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:50:34.924+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.062 seconds
+[2024-07-08T15:51:05.254+0000] {processor.py:157} INFO - Started process (PID=334) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:05.256+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:51:05.259+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:05.258+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:05.276+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:05.303+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:05.303+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:51:05.320+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:05.320+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:51:05.333+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.082 seconds
+[2024-07-08T15:51:35.589+0000] {processor.py:157} INFO - Started process (PID=349) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:35.590+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:51:35.593+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:35.592+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:35.605+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:51:35.632+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:35.632+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:51:35.649+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:51:35.648+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:51:35.662+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.076 seconds
+[2024-07-08T15:52:05.922+0000] {processor.py:157} INFO - Started process (PID=364) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:05.923+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:52:05.924+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:05.924+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:05.935+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:05.956+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:05.955+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:52:05.971+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:05.971+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:52:05.982+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
+[2024-07-08T15:52:36.249+0000] {processor.py:157} INFO - Started process (PID=379) to work on /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:36.250+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/download-data.py for tasks to queue
+[2024-07-08T15:52:36.252+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:36.251+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:36.262+0000] {processor.py:839} INFO - DAG(s) dict_keys(['download-github-archive']) retrieved from /opt/airflow/dags/download-data.py
+[2024-07-08T15:52:36.283+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:36.283+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2024-07-08T15:52:36.298+0000] {logging_mixin.py:151} INFO - [2024-07-08T15:52:36.298+0000] {dag.py:3696} INFO - Setting next_dagrun for download-github-archive to 2024-07-08T14:00:00+00:00, run_after=2024-07-08T15:00:00+00:00
+[2024-07-08T15:52:36.309+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/download-data.py took 0.063 seconds
